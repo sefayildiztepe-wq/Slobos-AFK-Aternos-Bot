@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "kuzeysass",
+    "username": "Satoboxgenbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "efesass.aternos.me",
-    "port": 26060,
+    "ip": "satoboxgen.aternos.me",
+    "port": 45944,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
